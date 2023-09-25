@@ -1,0 +1,2 @@
+# knowledge
+kznagamoriの知識を記録するためのレポジトリ
