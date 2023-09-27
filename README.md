@@ -1,4 +1,4 @@
-# KNOWLEDGE<
+# KNOWLEDGE
 
 kznagamoriのナレッジやノウハウを共有するレポジトリです。
 
