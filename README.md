@@ -1,6 +1,4 @@
-<span style="font-size: 300%; font-style: bold;">KNOWLEDGE</span>
-
----
+# KNOWLEDGE<
 
 kznagamoriのナレッジやノウハウを共有するレポジトリです。
 
