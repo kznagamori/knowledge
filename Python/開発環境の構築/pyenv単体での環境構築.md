@@ -1,8 +1,7 @@
 # pyenv単体での環境構築
 
 ## 1. Windows環境
-Windows での pyenv の環境構築には [pyenv-win](https://github.com/pyenv-win/pyenv-win)
-を使用します。
+Windows での pyenv の環境構築には [pyenv-win](https://github.com/pyenv-win/pyenv-win) を使用します。
 ターミナルにはPowerShell6以上を使用します。
 
 ### 1.1. pyenv-winのインストール
