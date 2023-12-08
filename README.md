@@ -13,5 +13,5 @@ kznagamoriのナレッジやノウハウを共有するレポジトリです。
 ### 学習
 #### ・[Go言語](https://github.com/kznagamori/LearningGoLang#readme)
 #### ・[Dart](https://github.com/kznagamori/LearningDart#readme)
-
+#### ・[Rust](https://github.com/kznagamori/LearningRust#readme)
 
