@@ -4,3 +4,4 @@
 
 ### ・[PowerShell](./PowerShell/README.md)
 ### ・[scoop](./scoop/README.md)
+### ・[Windows](./Windows/README.md)
