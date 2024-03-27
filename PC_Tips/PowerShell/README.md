@@ -141,3 +141,8 @@ Set-PSReadLineOption -PredictionSource HistoryAndPlugin
 Set-PSReadLineOption -PredictionViewStyle ListView
 Set-PSReadLineOption -Colors @{ InLinePrediction = [ConsoleColor]::Cyan }
 ```
+
+## 出力文字コードをUTF8にする
+```
+$OutputEncoding = [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+```
