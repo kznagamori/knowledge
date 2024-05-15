@@ -66,7 +66,7 @@ pythonコマンドで仮想環境を作成します。
 ```bash
 $ python -m venv <仮想環境パス> --without-pip
 $ <仮想環境パス>\Scripts\Activate
-(<仮想環境ディレクトリ名>) $ python -m ensurepip --upgrade
+(<仮想環境ディレクトリ名>) $ python -m ensurepip --upgrade --default-pip
 (<仮想環境ディレクトリ名>) $ python -m pip install --upgrade pip
 ```
 
@@ -76,7 +76,7 @@ $ <仮想環境パス>\Scripts\Activate
 ```bash
 $ python -m venv <仮想環境パス> --without-pip
 $ source <仮想環境パス>/bin/activate
-(<仮想環境ディレクトリ名>) $ python -m ensurepip --upgrade
+(<仮想環境ディレクトリ名>) $ python -m ensurepip --upgrade --default-pip
 (<仮想環境ディレクトリ名>) $ python -m pip install --upgrade pip
 ```
 
@@ -86,7 +86,7 @@ $ source <仮想環境パス>/bin/activate
 ```bash
 $ python3 -m venv <仮想環境パス> --without-pip
 $ source <仮想環境パス>/bin/activate
-(<仮想環境ディレクトリ名>) $ python3 -m ensurepip --upgrade
+(<仮想環境ディレクトリ名>) $ python3 -m ensurepip --upgrade --default-pip
 (<仮想環境ディレクトリ名>) $ python3 -m pip install --upgrade pip
 ```
 以降プロジェクトで作業する場合、source <仮想環境パス>/bin/activateを行って仮想環境で作業を行うこと。
